@@ -145,4 +145,25 @@ footer {
     text-align: center;
     font-size: 14px;
 }
+.event {
+    text-align: center;
+    padding: 30px;
+}
 
+.event-card {
+    background-color: plum;
+    width: 300px;
+    margin: 15px auto;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.2);
+}
+.card {
+    width: 300px;
+    margin: 20px auto;
+    padding: 15px;
+    background-color: plum;
+    border-radius: 10px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.2);
+    text-align: center;
+}
