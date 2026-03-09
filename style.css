@@ -1,29 +1,36 @@
 body{
-background-color: rgb(135, 135, 167);
-font-family: Arial, Helvetica, sans-serif;
-color: plum;
-margin: 20px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
 }
-p{
-    color:bisque;
+
+.navbar{
+    background-color: #6b4f4f;
+    padding: 15px;
 }
-h1{
-color:rgb(109, 16, 109);;
-text-align: center;
+
+.navbar a{
+    color: plum;
+    text-decoration: none;
+    margin: 10px;
+    font-weight: bold;
 }
-h2{
-color: rgb(109, 16, 109);
-text-align: left;
+
+.navbar a:hover{
+    color: #ffd54f;
 }
-h3{
-color: rgb(109, 16, 109);;
-text-align: left;
-}
+
 ul{
-    color: rgb(109, 16, 109);;
-    font-size:medium;
-    text-align: left;
-    line-height: 1,5;
+    list-style-position: inside;
+    text-align: center;
+}
+
+footer{
+    background-color: #6b4f4f;
+    color: white;
+    padding: 15px;
+    margin-top: 20px;
+}
 }
 .daftar-produk{
     display:grid;
@@ -167,3 +174,4 @@ footer {
     box-shadow: 0 0 5px rgba(0,0,0,0.2);
     text-align: center;
 }
+
