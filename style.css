@@ -40,7 +40,7 @@ footer{
     padding: 20px;
 }
 .produk{
-    background-color: rgb(130, 61, 194);
+    background-color: plum;
     border: 1px saddlebrown;
     padding: 15px;
     border-radius: 10px;
@@ -55,15 +55,15 @@ footer{
 }
 .produk h2{
     font-size: 20px;
-    color:rgb(109, 16, 109);
+    color: plum;
 }
 .produk h3{
     font-size: 16px;
-    color: rgb(109, 16, 109);
+    color: plum;
 }
 .produk h4{
     font-size: 16px;
-    color: rgb(109, 16, 109);
+    color: plum;
 }
 .harga{
     font-weight: bold;
@@ -117,7 +117,7 @@ footer{
     max-width: 600px;
     margin: auto;
     padding: 20px;
-    background-color:blueviolet;
+    background-color:plum;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
@@ -174,4 +174,5 @@ footer {
     box-shadow: 0 0 5px rgba(0,0,0,0.2);
     text-align: center;
 }
+
 
